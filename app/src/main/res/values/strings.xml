@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+
+
+    <string name="question_content">What is the capital of Butan</string>
+
+    <integer name="correct_answer">2</integer>
+
+
+    <array name="all_questions">
+        <item>Pregunta 1;*Respuesta 1;Respuesta 2;Respuesta 3;Respuesta 4</item>
+        <item>Pregunta 2;*Respuesta 1;Respuesta 2;Respuesta 3;Respuesta 4</item>
+        <item>Pregunta 3;*Respuesta 1;Respuesta 2;Respuesta 3;Respuesta 4</item>
+        <item>Pregunta 4;*Respuesta 1;Respuesta 2;Respuesta 3;Respuesta 4</item>
+        <item>Pregunta 5;*Respuesta 1;Respuesta 2;Respuesta 3;Respuesta 4</item>
+
+    </array>
+
+
+</resources>
